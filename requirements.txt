@@ -1,0 +1,8 @@
+Flask
+pandas
+seaborn
+sklearn
+matplotlib
+numpy
+gunicorn
+joblib
